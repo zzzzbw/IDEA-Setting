@@ -1,0 +1,9 @@
+<templateSet group="MyGroup">
+  <template name="add" value="/**&#10; * @Description:&#10; * @param $params$&#10; * @return $return$&#10; */" description="add commend" toReformat="false" toShortenFQNames="true">
+    <variable name="params" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="return" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
