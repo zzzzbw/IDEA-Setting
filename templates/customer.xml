@@ -1,5 +1,5 @@
 <templateSet group="customer">
-  <template name="/**" value="/**&#10; * @param: $param$&#10; * @return: $return$&#10; */" toReformat="false" toShortenFQNames="true">
+  <template name="/**" value="/**&#10; * @param: $param$&#10; * @return: $return$&#10; */" description="" toReformat="false" toShortenFQNames="true">
     <variable name="param" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="return" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
