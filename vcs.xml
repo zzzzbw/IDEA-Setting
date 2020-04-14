@@ -38,6 +38,10 @@
           <option name="url" value="http://139.129.221.69:9888" />
           <option name="userName" value="zhangbowen" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.eospal.cn:9888" />
+          <option name="userName" value="zhangbowen" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\92004\Develop\home" />
