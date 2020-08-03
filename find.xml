@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="用户增加经期状态" />
-    <option name="defaultScopeName" value="用户增加经期状态" />
+    <option name="customScope" value="定时任务判定经期状态生成经期数据" />
+    <option name="defaultScopeName" value="定时任务判定经期状态生成经期数据" />
     <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="用户增加经期状态" />
+    <option name="SEARCH_SCOPE" value="定时任务判定经期状态生成经期数据" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>
